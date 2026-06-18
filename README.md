@@ -1,24 +1,27 @@
 # CozyVille Community Handbook
 
-A community-maintained guide for CozyVille.
+Welcome to the community-maintained handbook for CozyVille.
 
-## Start Here
+## New Players
 
-* [Getting Started](welcome/getting-started.md)
-* [Currencies](economy/currencies.md)
-* [FAQ](welcome/faq.md)
+### Start Here
 
-## Activities
+- Getting Started
+- Gold Guide
+- FAQ
 
-* [Farming](gameplay/farming.md)
-* [Fishing](gameplay/fishing.md)
-* [Mining](gameplay/mining.md)
+## Gameplay
+
+- Farming
+- Fishing
+- Mining
 
 ## Economy
 
-* [Marketplace](economy/marketplace.md)
-* [Currencies](economy/currencies.md)
+- Gold
+- Currencies
+- Marketplace
 
-## About
+## Community
 
-This handbook is maintained by the CozyVille community and aims to provide accurate information, guides, and tips for players.
+This handbook is maintained by players and is designed to help both new and experienced CozyVille residents.
