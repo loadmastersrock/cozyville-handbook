@@ -4,20 +4,20 @@ A community-maintained guide for CozyVille.
 
 ## Start Here
 
-- [Getting Started](docs/getting-started.md)
-- [Currencies](docs/currencies.md)
-- [FAQ](docs/faq.md)
+* [Getting Started](welcome/getting-started.md)
+* [Currencies](economy/currencies.md)
+* [FAQ](welcome/faq.md)
 
 ## Activities
 
-- [Farming](docs/farming.md)
-- [Fishing](docs/fishing.md)
-- [Mining](docs/mining.md)
+* [Farming](gameplay/farming.md)
+* [Fishing](gameplay/fishing.md)
+* [Mining](gameplay/mining.md)
 
 ## Economy
 
-- [Marketplace](docs/marketplace.md)
-- [Currencies](docs/currencies.md)
+* [Marketplace](economy/marketplace.md)
+* [Currencies](economy/currencies.md)
 
 ## About
 
